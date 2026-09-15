@@ -82,7 +82,7 @@ export const portfolio: PortfolioData = {
     { label: "Users & Subscribers Served", value: "Millions+" },
   ],
   contact: {
-    phone: "(+14342936929)",
+    phone: "(+1 434 872 3775)",
     email: "andrewjuers0723@gmail.com",
     linkedin: "http://linkedin.com/in/andrew-j-9a2ab9420",
     github: "https://github.com/andrewjuers",
